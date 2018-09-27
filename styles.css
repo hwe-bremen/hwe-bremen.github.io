@@ -89,6 +89,7 @@ a:hover {
 .post-author img,
 .about-author img {
 	border-radius: 50%;
+	overflow:hidden;
 	}
 .post-author img {
 	width: 50px;
