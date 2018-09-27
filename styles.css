@@ -89,7 +89,6 @@ a:hover {
 .post-author img,
 .about-author img {
 	border-radius: 50%;
-	overflow:hidden;
 	}
 .post-author img {
 	width: 50px;
@@ -112,6 +111,7 @@ a:hover {
 	width: auto;
 	height: 100px;
 	border-radius: 50%;
+	overflow:hidden;
 	vertical-align: middle;
 	}
 h1, h2, h3, h4 {
