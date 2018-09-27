@@ -108,7 +108,7 @@ a:hover {
 	letter-spacing: 0.1;
 	}
 .about img {
-	width: auto;
+	width: 100px;
 	height: 100px;
 	border-radius: 50%;
 	overflow:hidden;
