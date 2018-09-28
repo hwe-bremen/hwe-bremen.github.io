@@ -90,7 +90,7 @@ a:hover {
 .about-author img {
 	border-radius: 50%;
 	}
-.post-author {
+.post-author img {
 	width: 50px;
 	height: 50px;
 	overflow:hidden;
@@ -107,15 +107,11 @@ a:hover {
 	text-transform: uppercase;
 	letter-spacing: 0.1;
 	}
-img {
-    width: auto;
-    height: 200PX;
-}
-.about  {
+.about img {
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
-	overflow:auto;
+	overflow:hidden;
 	vertical-align: middle;
 	}
 h1, h2, h3, h4 {
