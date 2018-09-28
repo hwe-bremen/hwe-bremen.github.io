@@ -107,11 +107,15 @@ a:hover {
 	text-transform: uppercase;
 	letter-spacing: 0.1;
 	}
-.about img {
+img {
+    width: auto;
+    height: 200PX;
+}
+.about  {
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
-	overflow:hidden;
+	overflow:auto;
 	vertical-align: middle;
 	}
 h1, h2, h3, h4 {
