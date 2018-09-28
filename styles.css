@@ -107,6 +107,10 @@ a:hover {
 	text-transform: uppercase;
 	letter-spacing: 0.1;
 	}
+.img-hwe{
+    height: 200px;
+    width: auto;
+    }
 .about img {
 	width: 200px;
 	height: 200px;
